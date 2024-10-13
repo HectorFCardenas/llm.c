@@ -33,5 +33,5 @@ dev/cuda/global_norm
 *.o
 
 # log files
-*.log
+#*.log
 core.252049
