@@ -1,0 +1,4 @@
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.252049 filter=lfs diff=lfs merge=lfs -text
+core.252049 filter=lfs diff=lfs merge=lfs -text
+log124M/* filter=lfs diff=lfs merge=lfs -text
